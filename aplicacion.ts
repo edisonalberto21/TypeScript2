@@ -9,4 +9,7 @@ var total = edad + puntos
 
 console.log(total)
 
+////////////////Textos////////////////////////////
+
+
 
